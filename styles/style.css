@@ -191,7 +191,195 @@
   
 } */
 
+#third{
+  text-align: center;
+  /* color: #131318;
+  font-family: Mulish;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800; */
+  /* margin-left: 135px;
+  margin-right: 135px; */
 
+}
+
+.destination-title{
+  color: #131318;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.destination-para{
+  color: rgba(19, 19, 24, 0.70);
+  text-align: center;
+  font-family: 'Mulish', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.country-part-one{
+  display: flex;
+  gap: 24px;
+  margin-top: 48px;
+}
+
+.country-maldives{
+  background: url(resources/mald.png);
+  background-repeat: no-repeat;
+  width: 573px;
+  height: 300px;
+  margin-left: 135px;
+  border-radius: 16px;
+}
+
+  .mald{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  padding-top: 90px;
+  
+
+}
+
+.country-indonesia{
+  background: url(resources/indo.png);
+  background-repeat: no-repeat;
+  color: #FFF;
+  width: 573px;
+  height: 300px;
+  margin-right: 135px;
+  border-radius: 16px;
+
+}
+.indo{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  padding-top: 90px;
+  
+}
+
+.country-part-two{
+  display: flex;
+  gap: 24px;
+}
+.country-srilanka{
+  background: url(resources/sril.png);
+  width: 374px;
+  height: 286px;
+  margin-top: 24px;
+  margin-left: 135px;
+  border-radius: 16px;
+
+}
+
+.sril{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  padding-top: 90px;
+  
+}
+
+
+.country-north{
+  background: url(resources/north.png);
+  width: 474px;
+  height: 286px;
+  margin-top: 24px;
+  border-radius: 16px;
+}
+
+.north{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  padding-top: 90px;  
+}
+.country-kashmir{
+  background: url(resources/kas.png);
+  background-repeat: no-repeat;
+  width: 274px;
+  height: 286px;
+  margin-top: 24px;
+  border-radius: 16px;
+}
+
+
+.kas{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  padding-top: 90px;
+}
+
+
+
+.country-part-three{
+  display: flex;
+  gap: 24px;
+}
+.country-bangladesh{
+  background: url(resources/bang.png);
+  width: 473px;
+  height: 300px;
+  margin-left: 135px;
+  border-radius: 16px;
+  margin-top: 24px;
+}
+
+.bangla{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  padding-top:90px;
+}
+
+.country-bandarbon{
+  background: url(resources/band.png);
+  width: 673px;
+  height: 300px;
+  margin-top: 24px;
+  border-radius: 16px;
+  margin-right: 135px;
+}
+
+.band{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  padding-top:90px;
+}
+
+/* @media screen {
+  
+} */
+
+/* ..........................comment....................... */
 #fourth{
   margin: auto;
   /* text-align: center; */
