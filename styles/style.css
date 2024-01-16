@@ -140,3 +140,55 @@
 /* @media screen {
   
 } */
+
+
+
+section, #second{
+  margin: 100px 135px;
+  display:flex;
+  /* width: 50%; */
+  /* margin-left: 135px;
+  margin-right: 135px;*/
+}
+
+.popular-tours{
+  color:rgba(19, 19, 24, 0.70);
+  padding-right: 53px;
+  font-size: 16px;
+  font-family: 'Mulish';
+  font-weight: 400;
+  
+
+}
+
+.tours{
+  color: #131318;
+  font-size: 40px;
+  font-family: 'Mulish';
+  font-weight: 800;
+}
+.img-two{
+  width: 540px;
+  height: 550px;
+
+}
+
+.second-btn{
+  background-color: #FF5400;
+  color: #FFF;
+  border: none;
+  width: 154px;
+  height: 52px;
+  border-radius: 8px;
+  margin-top: 46px;
+  font-size: 20px;
+  font-family: 'Mulish';
+  font-weight: 800;
+}
+
+
+/* @media screen {
+  
+} */
+
+
