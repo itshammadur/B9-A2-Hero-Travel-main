@@ -1,0 +1,72 @@
+
+
+
+
+.hero-travel{
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 135px;
+  margin-right: 127px;
+  /* border: 2px solid tomato; */
+  align-items: center;
+
+}
+.img-title{
+ display: inline-flex;
+}
+
+.hero-travel-title{
+  font-size: 36px;
+}
+
+.travel{
+  color: #FF5400;
+ 
+
+}
+.hero-travel-img{
+  width: 56px;
+  height: 48px;
+  margin-top: 25px;
+  padding-right: 8px;
+}
+
+ .anchor-home {
+  display: flex;
+
+}
+
+.hero-travel ul > li{
+  list-style: none;
+  margin-right: 44px;
+} 
+
+.home{
+  color: #FF5400;
+  font-family: 'Mulish';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.packges-contact{
+  color: var(--Dark-02, #424247);
+  font-family: 'Mulish';
+  font-size: 18px;
+  font-weight: 400;
+
+}
+
+/* @media screen {
+  
+} */
+
+
+/* #first{
+  background: url(resources/group\ 13.png);
+  background-repeat: no-repeat;
+  width: 1170px;
+  height: 500px;
+
+} */
