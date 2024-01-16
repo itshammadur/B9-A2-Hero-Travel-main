@@ -80,7 +80,7 @@
 
 .container{
   text-align: center;
-  padding-top: 180px;
+  padding-top: 50px;
 }
 
 .explore{
@@ -511,7 +511,7 @@
 
 .fifth-para{
   color: #5A5A5D;
-  font-family: Mulish;
+  font-family: 'Mulish';
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -558,6 +558,7 @@
   background: url(resources/Group\ 39.png);
   background-repeat: no-repeat;
   padding: 56px 56px 55px 535px;
+  margin-top: 48px;
 
 
 }
@@ -637,12 +638,13 @@
   padding: 56px 535px 55px 56px;
 }
 
-.fifth-tour-third-img{background: url(resources/Group\ 39.png);
+.fifth-tour-third-img{
+  background: url(resources/Group\ 39.png);
   background-repeat: no-repeat;
   width: 1170px;
   height: 500px;
-  margin-top: 24px;
   padding: 56px 56px 55px 535px;
+  /* margin-top: 24px; */
 }
 
 /* @media screen {
