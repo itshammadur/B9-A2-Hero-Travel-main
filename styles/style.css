@@ -143,7 +143,7 @@
 
 
 
-section, #second{
+#second{
   margin: 100px 135px;
   display:flex;
   /* width: 50%; */
@@ -184,6 +184,146 @@ section, #second{
   font-size: 20px;
   font-family: 'Mulish';
   font-weight: 800;
+}
+
+
+/* @media screen {
+  
+} */
+
+
+#third{
+  margin: auto;
+  /* text-align: center; */
+  margin-top: 100px;
+}
+ 
+
+.choose-items{
+  margin-top: 48px;
+  gap:24px;
+  margin-top:48px;
+  margin-left: 135px;
+  margin-right: 135px;
+  display: flex;
+}
+
+.why-choose{
+  /* text-align: center; */
+  color: #131318;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+
+  
+
+}
+
+
+
+
+.second-para{
+  color: rgba(19, 19, 24, 0.70);
+
+  /* text-align: center; */
+  font-family: 'Mulish';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.handpicked{
+  
+  background-color: rgba(251, 181, 99, 0.05);
+  width: 573px;
+  height: 284px;
+  padding-top: 32px;
+  padding-left: 32px;
+  border: 1px solid rgba(251, 181, 99, 0.20);
+  border-radius: 16px;
+  padding-right: 24px;
+}
+
+.handpicked-title{
+  color: #131318;
+
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+
+.third-para{
+  color: #5A5A5D;
+  font-family: 'Mulish';
+  font-size: 16px;
+  font-weight: 400
+}
+
+.world-class{
+  background-color: rgba(41, 206, 246, 0.05) ;
+  width: 573px;
+  height: 284px;
+  padding-top: 32px;
+  padding-left: 32px;
+  border: 1px solid rgba(41, 206, 246, 0.05);
+  border-radius: 16px;
+  padding-right: 24px;
+
+
+}
+
+.world-class-title{
+  color: #131318;
+  font-family: 'Mulish';
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+}
+ 
+.fourth-para{
+  color: #5A5A5D;
+  font-family: 'Mulish';
+  font-size: 16px;
+  font-weight: 400
+}
+
+.price-guarantee{
+  margin-top: 24px;
+}
+
+.guarantee{
+  justify-content: center;
+  background-color:  rgba(233, 68, 68, 0.05) ;
+  width: 573px;
+  height: 284px;
+  margin-left: 433px;
+  margin-right: 434px;
+  padding-top: 32px;
+  padding-left: 32px;
+  border: 1px solid rgba(233, 68, 68, 0.20);
+  border-radius: 16px;
+
+}
+
+.guarantee-title{
+  color: #131318;
+  font-family: Mulish;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.fifth-para{
+  color: #5A5A5D;
+  font-family: Mulish;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
 }
 
 
