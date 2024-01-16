@@ -73,12 +73,14 @@
     margin: auto;
     /* border: 1px solid tomato; */
     border-radius: 8px;
+    /* justify-content: center;
+    align-items: center; */
   }
 
 
 .container{
   text-align: center;
-  padding-top: 80px;
+  padding-top: 180px;
 }
 
 .explore{
@@ -149,6 +151,7 @@
   /* width: 50%; */
   /* margin-left: 135px;
   margin-right: 135px;*/
+  /* text-align: center; */
 }
 
 .popular-tours{
@@ -520,3 +523,124 @@
 } */
 
 
+#fifth{
+  margin: auto;
+  margin-top: 100px;
+  width: 1170px;
+  height: 500px;
+  
+}
+
+
+.deals{
+  text-align: center;
+}
+
+.deals-title{
+  color: #131318;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800
+}
+
+.deals-para{
+  color: rgba(19, 19, 24, 0.70);
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fifth-tour{
+  background: url(resources/Group\ 39.png);
+  background-repeat: no-repeat;
+  padding: 56px 56px 55px 535px;
+
+
+}
+
+
+.tour-to-satoroni{
+  background-color: rgba(255, 255, 255, 0.80);
+  width: 579px;
+  height: 389px;
+  align-items: center;
+  border-radius: 16px;
+  border: 2px solid #FFF;
+}
+
+.tour-bar{
+  display: inline-flex;
+  justify-content: space-around;
+  padding-top: 22px;
+}
+ 
+.day{
+  padding-left: 82px;
+  padding-right: 56px;
+}
+.max{
+  padding-right: 56px;
+}
+
+
+.tour-book{
+  padding-left: 50px;
+}
+
+.tour-title{
+  color: #131318;
+  font-family: 'Mulish';
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.tour-para{
+  color: #5A5A5D;
+  font-family: 'Mulish';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  
+}
+
+.price{
+  color: #FF5400;
+  font-family: 'Mulish';
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.third-btn{
+  background-color: #FF5400 ;
+  width: 150px;
+  height: 52px;
+  color: #FFF;
+  border-radius: 8px;
+  border: none;
+  font-family: Mulish;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.fifth-tour-second-img{
+  background: url(resources/Group\ 40.png);
+  background-repeat: no-repeat;
+  width: 1170px;
+  height: 500px;
+  margin-top: 24px;
+  padding: 56px 535px 55px 56px;
+}
+
+.fifth-tour-third-img{background: url(resources/Group\ 39.png);
+  background-repeat: no-repeat;
+  width: 1170px;
+  height: 500px;
+  margin-top: 24px;
+  padding: 56px 56px 55px 535px;
+}
