@@ -624,6 +624,7 @@
 
 .price{
   color: #FF5400;
+  
   font-family: 'Mulish';
   font-size: 20px;
   font-style: normal;
@@ -632,6 +633,7 @@
 
 .third-btn{
   background-color: #FF5400 ;
+  margin-top: 0px ;
   width: 150px;
   height: 52px;
   color: #FFF;
@@ -780,7 +782,7 @@
   margin-top: 100px;
   padding-top: 110px;
   text-align: center;
-  
+
 }
 
 .all-rights{
