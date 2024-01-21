@@ -1,7 +1,4 @@
 
-
-
-
 .hero-travel{
   background-color: #fff;
   display: flex;
@@ -76,8 +73,6 @@
     margin: auto;
     /* border: 1px solid tomato; */
     border-radius: 8px;
-    /* justify-content: center;
-    align-items: center; */
   }
 
 
@@ -113,19 +108,15 @@
 }
 
 .go-type{
-  /* color: #FFF; */
-  /* display: flex; */
-  /* display: grid; */
+  color: rgba(19, 19, 24, 0.50);
   width: 154px; 
   height: 52px;
   border: none;
   border-radius: 8px;
-  margin: 20px;
-  color: rgba(19, 19, 24, 0.50);
+  margin: 20px; 
   text-align: center;
   font-family: 'Mulish';
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   padding-right: 55px;
 
@@ -138,30 +129,19 @@
   border: none;
   border-radius: 8px;
   margin: 20px;
-  /* padding-right: 55px; */
 
 }
 
 
 
-/* @media screen and (max-width: 576px){
-  .hero-travel-img{
-     width: 100%;
-     
-  }
-   .go-type{
-    flex-direction: column;
-    width: 20%;
-   }
+/* @media screen {
+  
 } */
 
 #second{
   margin: 100px 135px;
   display:flex;
-  /* width: 50%; */
-  /* margin-left: 135px;
-  margin-right: 135px;*/
-  /* text-align: center; */
+
 }
 
 .popular-tours{
@@ -206,14 +186,6 @@
 
 #third{
   text-align: center;
-  /* color: #131318;
-  font-family: Mulish;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 800; */
-  /* margin-left: 135px;
-  margin-right: 135px; */
-
 }
 
 .destination-title{
@@ -410,7 +382,6 @@
 }
 
 .why-choose{
-  /* text-align: center; */
   color: #131318;
   text-align: center;
   font-family: 'Mulish';
@@ -418,17 +389,10 @@
   font-style: normal;
   font-weight: 800;
 
-  
-
 }
-
-
-
 
 .second-para{
   color: rgba(19, 19, 24, 0.70);
-
-  /* text-align: center; */
   font-family: 'Mulish';
   font-size: 16px;
   font-style: normal;
@@ -536,12 +500,6 @@
 #fifth{
   margin: 0px 135px;
   margin-top: 100px;
-  /* width: 1170px; */
-  /* height: 500px; */
-  /* border: 1px solid tomato; */
-  /* justify-content: center;
-  align-items: center;
-   */
 }
 
 
@@ -573,9 +531,7 @@
   padding: 56px 56px 55px 535px;
   margin-top: 48px;
 
-
 }
-
 
 .tour-to-satoroni{
   background-color: rgba(255, 255, 255, 0.80);
@@ -652,6 +608,7 @@
   height: 470px;
   margin-top: 24px;
   padding: 56px 0px 0px 56px;
+
 }
 
 .fifth-tour-third-img{
@@ -660,13 +617,12 @@
   width: 50%;
   height: 500px;
   padding: 56px 55px 0px 535px;
-  /* margin-top: 24px; */
   /* border: 1px solid tomato; */
 }
 
 .packages{
   text-align: center;
-  /* align-items: center; */
+
 }
 
 .see-all{
@@ -690,13 +646,10 @@
 
 
 #sixth{
-
   display: flex;
-  /* width: 100%; */
-  /* height: 300px; */
   /* border: 1px solid tomato; */
   margin-top: 100px;
-  /* border-bottom: none; */
+ 
 }
 
 
@@ -711,11 +664,7 @@
 }
 
 .new-img{
-
-  padding-left: 60px;
-  /* width: 540px; */
-  /* height: 550px; */
-  
+  padding-left: 60px; 
 
 }
 
@@ -728,8 +677,6 @@
   display: flex;
   margin: 100px 127px 0px 135px;
   /* margin: auto; */
-
-
 
 }
 
@@ -768,12 +715,9 @@
 
 }
 
-
 /* @media screen {
   
 } */
-
-
 
 .last-step{
   background: rgba(19, 19, 24, 0.05);
@@ -785,6 +729,17 @@
 
 }
 
+ .footer-para{
+  color: #5A5A5D;
+  text-align: center;
+  font-family: 'Mulish';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  
+ }
+
 .all-rights{
-  padding-top: 123px;
+  border-top:2px solid rgba(19, 19, 24, 0.10);
+  padding-top: 103px;
 }
